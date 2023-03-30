@@ -1,0 +1,311 @@
+[
+  {
+  "id": 2,
+  "name": "Iphone 14 pro",
+  "price": 1200,
+  "description": "256gb - Or - Neuf",
+  "image":
+  "https://static.fnac-static.com/multimedia/Images/FR/MDM/01/32/32/20066817/3756-1/tsp20221013150621/iPhone-14-Pro-Max-6-7-5G-Double-SIM-128-Go-Or.jpg",
+  "amount": 10,
+  "categories_id": 1,
+  "createdAt": "2022-11-15T09:29:41.000Z",
+  "updatedAt": "2022-11-15T09:29:41.000Z",
+  "CategoryId": null
+  },
+  {
+  "id": 3,
+  "name": "Iphone 13 pro max",
+  "price": 1000,
+  "description": "256gb - bleu - Neuf",
+  "image": "https://images.frandroid.com/wp-content/uploads/2021/09/apple-iphone-13-pro-frandroid-2021.png",
+  "amount": 5,
+  "categories_id": 1,
+  "createdAt": "2022-11-15T09:35:38.000Z",
+  "updatedAt": "2022-11-15T09:35:38.000Z",
+  "CategoryId": null
+  },
+  {
+  "id": 4,
+  "name": "Iphone 11",
+  "price": 300,
+  "description": "128gb - blanc - Presque Neuf",
+  "image": "https://d1eh9yux7w8iql.cloudfront.net/product_images/311316_dae82954-9893-4b4f-8f06-8a231a18a19c.jpg",
+  "amount": 4,
+  "categories_id": 1,
+  "createdAt": "2022-11-15T09:36:59.000Z",
+  "updatedAt": "2022-11-15T09:36:59.000Z",
+  "CategoryId": null
+  },
+  {
+  "id": 5,
+  "name": "Iphone 11",
+  "price": 300,
+  "description": "128gb - Jaune - Presque Neuf",
+  "image":
+  "https://static.fnac-static.com/multimedia/Images/FR/MDM/9e/b2/bd/12432030/1540-1/tsp20221109232133/Apple-iPhone-11-128-Go-6-1-Jaune.jpg",
+  "amount": 4,
+  "categories_id": 1,
+  "createdAt": "2022-11-15T09:37:50.000Z",
+  "updatedAt": "2022-11-15T09:37:50.000Z",
+  "CategoryId": null
+  },
+  {
+  "id": 7,
+  "name": "Iphone 11",
+  "price": 300,
+  "description": "128gb - Rouge - Presque Neuf",
+  "image":
+  "https://assets.swappie.com/cdn-cgi/image/width=600,height=600,fit=contain,format=auto/swappie-iphone-11-red-back.png?v=11",
+  "amount": 4,
+  "categories_id": 1,
+  "createdAt": "2022-11-15T09:38:43.000Z",
+  "updatedAt": "2022-11-15T09:38:43.000Z",
+  "CategoryId": null
+  },
+  {
+  "id": 8,
+  "name": "Iphone 13",
+  "price": 500,
+  "description": "128gb - Bleu - Presque Neuf",
+  "image": "https://ladepeche.ma/storage/2022/09/1900007079.jpg",
+  "amount": 9,
+  "categories_id": 1,
+  "createdAt": "2022-11-15T09:39:39.000Z",
+  "updatedAt": "2022-11-15T09:39:39.000Z",
+  "CategoryId": null
+  },
+  {
+  "id": 9,
+  "name": "Iphone 12",
+  "price": 400,
+  "description": "64gb - Vert - Presque Neuf",
+  "image": "https://cdn.hoanghamobile.com/i/preview/Uploads/2020/11/06/apple-iphone-12-mini-5.png",
+  "amount": 9,
+  "categories_id": 1,
+  "createdAt": "2022-11-15T09:41:21.000Z",
+  "updatedAt": "2022-11-15T09:41:21.000Z",
+  "CategoryId": null
+  },
+  {
+  "id": 11,
+  "name": "Iphone 12",
+  "price": 400,
+  "description": "64gb - Noir - Neuf",
+  "image": "https://cf4.certideal.com/24196-certideal_category_thumb/iphone-12-128-go-noir.jpg",
+  "amount": 15,
+  "categories_id": 1,
+  "createdAt": "2022-11-15T09:42:23.000Z",
+  "updatedAt": "2022-11-15T09:42:23.000Z",
+  "CategoryId": null
+  },
+  {
+  "id": 12,
+  "name": "Iphone X",
+  "price": 250,
+  "description": "64gb - Noir - Bon Etat",
+  "image": "https://d1eh9yux7w8iql.cloudfront.net/product_images/36833_4776bbd6-9959-4ea1-85e1-3214d47d481f.jpg",
+  "amount": 15,
+  "categories_id": 1,
+  "createdAt": "2022-11-15T09:43:33.000Z",
+  "updatedAt": "2022-11-15T09:43:33.000Z",
+  "CategoryId": null
+  },
+  {
+  "id": 13,
+  "name": "Iphone X",
+  "price": 250,
+  "description": "64gb - Blanc - Bon Etat",
+  "image": "https://d1eh9yux7w8iql.cloudfront.net/product_images/36835_73a2e473-1bf7-4113-95ca-3751f5173d9c.jpg",
+  "amount": 10,
+  "categories_id": 1,
+  "createdAt": "2022-11-15T09:44:11.000Z",
+  "updatedAt": "2022-11-15T09:44:11.000Z",
+  "CategoryId": null
+  },
+  {
+  "id": 14,
+  "name": "Iphone Xr",
+  "price": 230,
+  "description": "64gb - Rouge - Bon Etat",
+  "image": "https://cf4.certideal.com/20607-thickbox_default/iphone-xr-64-go-rouge.jpg",
+  "amount": 2,
+  "categories_id": 1,
+  "createdAt": "2022-11-15T09:45:44.000Z",
+  "updatedAt": "2022-11-15T09:45:44.000Z",
+  "CategoryId": null
+  },
+  {
+  "id": 15,
+  "name": "Iphone Xr",
+  "price": 230,
+  "description": "64gb - Jaune - Bon Etat",
+  "image": "https://www.refurbished.fr/cache/images/iphone-xr-geel-multiapple_600x600_BGresize_16777215-tj.png",
+  "amount": 2,
+  "categories_id": 1,
+  "createdAt": "2022-11-15T09:46:29.000Z",
+  "updatedAt": "2022-11-15T09:46:29.000Z",
+  "CategoryId": null
+  },
+  {
+  "id": 16,
+  "name": "Samsung S22",
+  "price": 600,
+  "description": "64gb - Blanc - Bon Etat",
+  "image": "https://fscl01.fonpit.de/devices/22/2222-w320h320.png",
+  "amount": 6,
+  "categories_id": 2,
+  "createdAt": "2022-11-15T09:48:26.000Z",
+  "updatedAt": "2022-11-15T09:48:26.000Z",
+  "CategoryId": null
+  },
+  {
+  "id": 17,
+  "name": "Samsung S22",
+  "price": 600,
+  "description": "64gb - Jaune - Bon Etat",
+  "image":
+  "https://images.samsung.com/pt/smartphones/galaxy-s22/buy/02_carousel/05_exclusive-colors/s22plus_exclusive_carousel_violet_productkv_mo_nocopy.jpg",
+  "amount": 6,
+  "categories_id": 2,
+  "createdAt": "2022-11-15T09:49:50.000Z",
+  "updatedAt": "2022-11-15T09:49:50.000Z",
+  "CategoryId": null
+  },
+  {
+  "id": 18,
+  "name": "Samsung S22",
+  "price": 600,
+  "description": "128gb - Bleu - Bon Etat",
+  "image":
+  "https://images.samsung.com/ca_fr/smartphones/galaxy-s22/buy/S22plus_Exclusive_Carousel_SkyBlue_ProductKV_MO_w_oCopy.jpg",
+  "amount": 6,
+  "categories_id": 2,
+  "createdAt": "2022-11-15T09:50:45.000Z",
+  "updatedAt": "2022-11-15T09:50:45.000Z",
+  "CategoryId": null
+  },
+  {
+  "id": 19,
+  "name": "Samsung S21",
+  "price": 500,
+  "description": "128gb - Vert - Neuf",
+  "image":
+  "https://cdn.evkur.com.tr/c/Product/thumbs/samsung-galaxy-s21-fe-5g-8-128gb-gri-akilli-telefon-g990e_j2zdo5_1920.jpg",
+  "amount": 6,
+  "categories_id": 2,
+  "createdAt": "2022-11-15T09:52:22.000Z",
+  "updatedAt": "2022-11-15T09:52:22.000Z",
+  "CategoryId": null
+  },
+  {
+  "id": 20,
+  "name": "Samsung S21",
+  "price": 500,
+  "description": "128gb - Blanc - Neuf",
+  "image": "https://www.maisonelectro.ma/wp-content/uploads/2022/05/TELSUM11.jpg",
+  "amount": 6,
+  "categories_id": 2,
+  "createdAt": "2022-11-15T09:52:49.000Z",
+  "updatedAt": "2022-11-15T09:52:49.000Z",
+  "CategoryId": null
+  },
+  {
+  "id": 21,
+  "name": "Samsung S21",
+  "price": 550,
+  "description": "256gb - Noir - Neuf",
+  "image": "https://www.tunisianet.com.tn/188886-large/telephone-portable-samsung-galaxy-s21-5g-gris.jpg",
+  "amount": 6,
+  "categories_id": 2,
+  "createdAt": "2022-11-15T09:53:19.000Z",
+  "updatedAt": "2022-11-15T09:53:19.000Z",
+  "CategoryId": null
+  },
+  {
+  "id": 22,
+  "name": "Samsung S20",
+  "price": 550,
+  "description": "256gb - Bleu - Neuf",
+  "image":
+  "https://www.xtmobile.vn/vnt_upload/product/04_2022/thumbs/(600x600)_crop_samsung-galaxy-s20-han-quoc-xtmobile.jpg",
+  "amount": 6,
+  "categories_id": 2,
+  "createdAt": "2022-11-15T09:55:10.000Z",
+  "updatedAt": "2022-11-15T09:55:10.000Z",
+  "CategoryId": null
+  },
+  {
+  "id": 23,
+  "name": "Samsung S10",
+  "price": 300,
+  "description": "256gb - Bleu - Neuf",
+  "image":
+  "https://www.cdiscount.com/pdt2/6/8/8/1/700x700/sam8801643846688/rw/samsung-galaxy-s10-g973-8gb-128gb-azul-dual-sim.jpg",
+  "amount": 6,
+  "categories_id": 2,
+  "createdAt": "2022-11-15T09:55:57.000Z",
+  "updatedAt": "2022-11-15T09:55:57.000Z",
+  "CategoryId": null
+  },
+  {
+  "id": 24,
+  "name": "Samsung S10",
+  "price": 200,
+  "description": "64gb - Noir - Neuf",
+  "image": "https://d1eh9yux7w8iql.cloudfront.net/product_images/235548_ed97333e-0c9d-44bc-8076-3e98c00b59ac.jpg",
+  "amount": 6,
+  "categories_id": 2,
+  "createdAt": "2022-11-15T09:56:50.000Z",
+  "updatedAt": "2022-11-15T09:56:50.000Z",
+  "CategoryId": null
+  },
+  {
+  "id": 25,
+  "name": "Huawei p30",
+  "price": 600,
+  "description": "128gb - bleu - Neuf",
+  "image": "https://d1eh9yux7w8iql.cloudfront.net/product_images/283569_f9e62212-d422-4387-9d5d-6a9a6e3b6a41.jpg",
+  "amount": 4,
+  "categories_id": 3,
+  "createdAt": "2022-11-15T09:58:17.000Z",
+  "updatedAt": "2022-11-15T09:58:17.000Z",
+  "CategoryId": null
+  },
+  {
+  "id": 26,
+  "name": "Huawei p30 pro",
+  "price": 550,
+  "description": "128gb - Rouge - Neuf",
+  "image": "https://cdn.allotech-dz.com/wp-content/uploads/2020/05/Huawei-P30-Pro-New-Edition-300x300-1-300x300.jpg",
+  "amount": 4,
+  "categories_id": 3,
+  "createdAt": "2022-11-15T09:59:07.000Z",
+  "updatedAt": "2022-11-15T09:59:07.000Z",
+  "CategoryId": null
+  },
+  {
+  "id": 27,
+  "name": "Huawei p40",
+  "price": 550,
+  "description": "128gb - Bleu - Neuf",
+  "image": "https://5.imimg.com/data5/RY/PR/ZB/SELLER-6131802/huawei-p40-a--500x500.jpg",
+  "amount": 4,
+  "categories_id": 3,
+  "createdAt": "2022-11-15T10:00:29.000Z",
+  "updatedAt": "2022-11-15T10:00:29.000Z",
+  "CategoryId": null
+  },
+  {
+  "id": 28,
+  "name": "Huawei p40 pro ",
+  "price": 800,
+  "description": "128gb - Noir - Preque Neuf",
+  "image":
+  "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQ3VbPUWJi5mW0Kd7Yef3crCUoKxugnIAVz3yipGvOVSmE-AU1Jozo08U8lZsTmSPXVnE&usqp=CAU",
+  "amount": 4,
+  "categories_id": 3,
+  "createdAt": "2022-11-15T10:01:26.000Z",
+  "updatedAt": "2022-11-15T10:01:26.000Z",
+  "CategoryId": null
+  }
+  ]

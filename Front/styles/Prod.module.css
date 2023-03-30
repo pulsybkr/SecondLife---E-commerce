@@ -1,0 +1,119 @@
+.contenair{
+  margin: 50px 0;
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+}
+
+.blocimg{
+  width: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  height: 70vh;
+}
+.image img{
+  width: 450px;
+  cursor: pointer;
+}
+
+.pimg{
+  width: 90px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.pimg img{
+  width: 50px;
+  border: 1px solid rgba(0, 0, 0, 0.495);
+  border-radius: 5px;
+  opacity: 0.5;
+  transition: 0.2s;
+  margin-bottom: 5px;
+  cursor: pointer;
+}
+
+.pimg img:hover{
+  border: 1px solid rgb(0, 0, 0);
+  opacity: 1;
+  width: 70px;
+}
+
+/* bloc text */
+.bloctext
+{
+  width: 50%;
+  padding: 0 100px;
+}
+
+.title{
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  padding: 0 10px;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.bloctext button{
+  float: right;
+  padding: 15px 50px;
+  background-color: black;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  border: none;
+}
+
+.bloctext .h2{
+  margin-left: 10px;
+  font-size: bold;
+  margin-top: 40px;
+  margin-bottom: 0;
+  color: black;
+  font-size: 0.9rem;
+}
+
+.condition{
+  margin-top: 100px;
+}
+
+/* galerie flotant */
+.float{
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;;
+  align-items: center;
+  background-color: rgba(0, 0, 0, 0.3);
+}
+
+.galeriefloat{
+  width: 80%;
+  height: 80%;
+  background-color: white;
+  position: relative;
+  display: flex;
+  align-items: center;
+  flex-direction: reverse;
+  justify-content: space-around;
+  border-radius: 10px;
+}
+
+.close{
+  width: 50px;
+  position: absolute;
+  right: -4%;
+  top: -7%;
+  cursor: pointer;
+}
+
+.gimg{
+  height: 80%;
+}
+.gimg img{
+  height: 100%;
+}
